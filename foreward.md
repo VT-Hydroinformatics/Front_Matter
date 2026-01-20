@@ -38,20 +38,20 @@ Chapters called ACTIVITY are either homework or class-period-long in-class activ
 
 # Table of contents
 
-1. **[Intro to Plotting](plotting-demo-complete)**: *Introduction to plotting with ggplot.*
-2. **[R Tidyverse Programming Basics](programming-basics-demo-complete):** *Introduction to basic R syntax and dplyr verbs.*
-3. **[ACTIVITY Intro Skills](activity-intro-skills):** *Activity to practice basic plotting and programming.*
-4. **[Introduction to Basic Statistics](intro-stats-completed):** *Introduction to basic ways to measure a data distribution.*
-5. **[ACTIVITY Intro Stats](intro-stats-activity):** *Activity to practice basic statistics concepts.*
-6. **[Joins, Pivots, and USGS dataRetrieval](get-format-plot-hydrodata-complete):** *Joins and Pivots, using USGS dataRetrieval to generate examples.*
-7. **[ACTIVITY Joins Pivots dataRetrieval](activity-joins-pivots-dataretrieval):** *Activity to practice Joins, Pivots, and dataRetrieval.*
-8. **[ACTIVITY Summative 1](summative-activity):** *First summative assessment/practice.*
-9. **[Flow Duration Curves](flow-duration-curves):** *Building and exploring flow duration curves.*
-10. **[Low Flow Analysis](lowflowstats-fdc):** *How to calculate low-flow statistics (ex: 7Q10, 1Q10).*
-11. **[Flood Frequency Analysis and Creating Functions](flood-frequency):** *Flood frequency analysis and making your own functions.*
-12. **[Geospatial data in R - Vector](intro-geospatial-r):** *Intro to working with vector data in R*
-13. **[Geospatial R Raster - Hydro Analyses](geospatial-raster-hydro):** *Intro to working with raster data in R, hydrological raster analyses*
-14. **[Summative Assessment 2](summative-2-student):** *Summative Assessment #2*
-15. **[Geospatial R Raster - Watershed Delineation](watershed-delineation-and-analysis):** *Watershed delineation and extracting DEM values by watershed*
-16. **[Intro to Modeling - Getting Started with HBV](modeling-getting-started-hbv):** *Setting up a simple hydrologic model in R*
-17. **[Intro to Modeling - Calibrate HBV](calibrate-hbv):** *Using the Monte Carlo method to calibrate the HBV model, discuss equifinality*
+1. **Intro to Plotting:** *Introduction to plotting with ggplot.*
+2. **R Tidyverse Programming Basics:** *Introduction to basic R syntax and dplyr verbs.*
+3. **ACTIVITY Intro Skills:** *Activity to practice basic plotting and programming.*
+4. **Introduction to Basic Statistics:** *Introduction to basic ways to measure a data distribution.*
+5. **ACTIVITY Intro Stats:** *Activity to practice basic statistics concepts.*
+6. **Joins, Pivots, and USGS dataRetrieval:** *Joins and Pivots, using USGS dataRetrieval to generate examples.*
+7. **ACTIVITY Joins Pivots dataRetrieval:** *Activity to practice Joins, Pivots, and dataRetrieval.*
+8. **ACTIVITY Summative 1:** *First summative assessment/practice.*
+9. **Flow Duration Curves:** *Building and exploring flow duration curves.*
+10. **Low Flow Analysis:** *How to calculate low-flow statistics (ex: 7Q10, 1Q10).*
+11. **Flood Frequency Analysis and Creating Functions:** *Flood frequency analysis and making your own functions.*
+12. **Geospatial data in R - Vector:** *Intro to working with vector data in R*
+13. **Geospatial R Raster - Hydro Analyses:** *Intro to working with raster data in R, hydrological raster analyses*
+14. **Summative Assessment 2:** *Summative Assessment #2*
+15. **Geospatial R Raster - Watershed Delineation:** *Watershed delineation and extracting DEM values by watershed*
+16. **Intro to Modeling - Getting Started with HBV:** *Setting up a simple hydrologic model in R*
+17. **Intro to Modeling - Calibrate HBV:** *Using the Monte Carlo method to calibrate the HBV model, discuss equifinality*
